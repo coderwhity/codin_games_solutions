@@ -4,7 +4,7 @@ Input
 Line 1: A string s
 Output
 The desired Pattern regarding to s
-Constraints
+Constraints 
 0 < length of s < 25
 Example
 Input
